@@ -1,0 +1,10 @@
+streamlit==1.38.0
+PyPDF2==3.0.1
+python-docx==1.1.2
+spacy==3.7.4
+scikit-learn==1.5.2
+matplotlib==3.9.2
+wordcloud==1.9.3
+
+# Install English NLP model for spaCy
+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1-py3-none-any.whl
